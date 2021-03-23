@@ -1,7 +1,7 @@
 # Laboratorio-de-circuitos
 |Carrera:Electrónica y automatización|Nivel:Segundo|Paralelo: A|
 |---|---|---|
-|Nombres:|Jefferson Chicaiza| Erick Izurieta|
+|Nombre:|Erick| Izurieta|
 |Tema:|TEOREMA DE THÉVENIN ||
 |Fecha de ralización:| 21/03/21|Fecha de entrega: 23/03/21|
 |Ingeniero:| Darwin|Alulema |
