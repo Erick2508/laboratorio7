@@ -20,12 +20,11 @@ Calcular el valor del voltaje de Thévenin.
 
 2.-**MARCO TEORICO**
 
-![Mapa 1](https://user-images.githubusercontent.com/75336529/112071591-174baa00-8b3e-11eb-9221-a7ad0b31bbbc.png)
+![mapas docx - Word 23_3_2021 14_01_13](https://user-images.githubusercontent.com/75336529/112203289-621dfe00-8be0-11eb-8bb5-dc62c1c1baf6.png)
 
 Teorema de Thevenin comportandose con las fuentes:
 
-![mapa2](https://user-images.githubusercontent.com/75336529/112071779-83c6a900-8b3e-11eb-980b-d79e34131f8b.png)
-
+![mapa2](https://user-images.githubusercontent.com/75336529/112202983-05224800-8be0-11eb-98ca-ee9301598ae4.png)
 
 3.-**DIAGRAMA**
 
